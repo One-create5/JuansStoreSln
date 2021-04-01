@@ -42,12 +42,12 @@ Adding initial data to the database
 # Chapter 8 
 
 #### Category
-![Figure 8-5](https://github.com/One-create5/JuansStoreSln/blob/master/images/Figure%207-9.JPG)
+![Figure 8-5](https://github.com/One-create5/JuansStoreSln/blob/master/images/Figure%208-5.JPG)
 
 #### Shopping Cart and Session Data
-![Figure 7-9](https://github.com/One-create5/JuansStoreSln/blob/master/images/Figure%207-9.JPG)
-![Figure 7-9](https://github.com/One-create5/JuansStoreSln/blob/master/images/Figure%207-9.JPG)
+![Figure 8-10](https://github.com/One-create5/JuansStoreSln/blob/master/images/Figure%208-10.JPG)
+![Figure 8-11](https://github.com/One-create5/JuansStoreSln/blob/master/images/Figure%208-11.JPG)
 
 #### Tests
-![Figure 7-9](https://github.com/One-create5/JuansStoreSln/blob/master/images/Figure%207-9.JPG)
+![Figure 7-9](https://github.com/One-create5/JuansStoreSln/blob/master/images/Chpater8Tests.JPG)
 
