@@ -36,4 +36,4 @@ Adding initial data to the database
 
 ## Bootstrap styling applied
 
-![Figure 7-9](https://github.com/One-create5/JuansFightShopSln/blob/master/images/Figure%207-9.JPG)
+![Figure 7-9](https://github.com/One-create5/JuansStoreSln/blob/master/images/Figure%207-9.JPG)
