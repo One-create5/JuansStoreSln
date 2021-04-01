@@ -15,7 +15,7 @@ dotnet add JuansStoreSln/FightGearProducts.Tests reference JuansStoreSln/FightGe
 
 ## Image 
 
-![Step 1](https://github.com/One-create5/JuansFightShopSln/blob/master/images/Step1_p128.JPG)
+![Step 1](https://github.com/One-create5/JuansStoreSln/blob/master/images/Step1_p128.JPG)
 
 ## Adding Data to the Application
 ### Entity Framework
