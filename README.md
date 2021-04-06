@@ -13,6 +13,7 @@ dotnet new xunit -o JuansStoreSln/FightGearProducts.Tests --framework netcoreapp
 dotnet sln JuansStoreSln add JuansStoreSln/FightGearProducts.Tests 
 dotnet add JuansStoreSln/FightGearProducts.Tests reference JuansStoreSln/FightGearProducts 
 
+# Chapter 7
 ## Image 
 
 ![Step 1](https://github.com/One-create5/JuansStoreSln/blob/master/images/Step1_p128.JPG)
@@ -37,3 +38,16 @@ Adding initial data to the database
 ## Bootstrap styling applied
 
 ![Figure 7-9](https://github.com/One-create5/JuansStoreSln/blob/master/images/Figure%207-9.JPG)
+
+# Chapter 8 
+
+#### Category
+![Figure 8-5](https://github.com/One-create5/JuansStoreSln/blob/master/images/Figure%208-5.JPG)
+
+#### Shopping Cart and Session Data
+![Figure 8-10](https://github.com/One-create5/JuansStoreSln/blob/master/images/Figure%208-10.JPG)
+![Figure 8-11](https://github.com/One-create5/JuansStoreSln/blob/master/images/Figure%208-11.JPG)
+
+#### Tests
+![Figure 7-9](https://github.com/One-create5/JuansStoreSln/blob/master/images/Chpater8Tests.JPG)
+
