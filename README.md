@@ -51,3 +51,14 @@ Adding initial data to the database
 #### Tests
 ![Figure 7-9](https://github.com/One-create5/JuansStoreSln/blob/master/images/Chpater8Tests.JPG)
 
+# Chapter 9
+
+#### Check out
+![Figure checkout](https://github.com/One-create5/JuansStoreSln/blob/master/images/chapter9/checkout.JPG)
+
+#### Orders
+![Figure orders](https://github.com/One-create5/JuansStoreSln/blob/master/images/chapter9/completeOrder.JPG)
+
+#### Verify Orders
+![Figure verify](https://github.com/One-create5/JuansStoreSln/blob/master/images/chapter9/ThankYouPrompt.JPG)
+
